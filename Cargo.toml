@@ -1,0 +1,7 @@
+[package]
+name = "ruststep"
+version = "0.1.0"
+authors = ["Ennis Massey <ennisbaradine@gmail.com>"]
+
+[dependencies]
+maplit = "1.0.1"
